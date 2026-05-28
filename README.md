@@ -10,7 +10,7 @@ Soy Javier Páez, con 15+ años de experiencia en **SQL y PL/SQL sobre Oracle**,
 
 Construir, paso a paso, las habilidades necesarias para:
 - Diseñar y operar pipelines de datos a escala
-- Migrar sistemas Oracle on-premise a cloud (AWS / Databricks)
+- Diseñar y operar migraciones de alto volumen desde múltiples fuentes (Oracle, SQL Server, MySQL, PostgreSQL, archivos legacy, APIs, eventos) hacia plataformas cloud modernas (AWS, Databricks, Snowflake)
 - Sentar bases sólidas para evolucionar a AI Engineer
 
 ## 📂 Estructura del repo
